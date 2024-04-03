@@ -110,7 +110,7 @@ export function AttendeeList (){
     return(
         <div className="flex flex-col gap-4">
             <div className="flex gap-3 items-center">
-                <h1 className="text-2xl font-bold">Participantes teste</h1>
+                <h1 className="text-2xl font-bold">Participantes</h1>
                 <div className="px-3 py-1.5 border w-72 border-white/10 rounded-lg  flex items-center gap-3">
                     <Search className="size-4 text-emerald-300" />
                     <input 
